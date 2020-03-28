@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "content": "1、join()\n\n> join(separator): 将数组的元素组起一个字符串，以separator为分隔符，省略的话则用默认用逗号为分隔符，该方法只接收一个参数：即分隔符。\n```\nvar arr = [1,2,3];\nconsole.log(arr.join()); // 1,2,3\nconsole.log(arr.join(\"-\")); // 1-2-3\nconsole.log(arr); // [1, 2, 3]（原数组不变）\n```",
+      "data": {
+        "title": "数组的方法",
+        "date": "2020-03-28 14:40:56",
+        "tags": [
+          "javascript"
+        ],
+        "published": true,
+        "hideInList": false,
+        "feature": null,
+        "isTop": false
+      },
+      "isEmpty": false,
+      "excerpt": "",
+      "abstract": "",
+      "fileName": "javascriptArrayMethods"
+    },
+    {
+      "content": "> 欢迎来到我的小站呀，很高兴遇见你！\n",
+      "data": {
+        "title": "关于",
+        "date": "2019-01-25 19:09:48",
+        "tags": [],
+        "published": true,
+        "hideInList": true,
+        "feature": null,
+        "isTop": false
+      },
+      "isEmpty": false,
+      "excerpt": "",
+      "abstract": "",
+      "fileName": "about"
+    }
+  ],
+  "tags": [
+    {
+      "name": "javascript",
+      "slug": "PJTg37op7_",
+      "used": true
+    }
+  ],
+  "menus": [
+    {
+      "link": "/",
+      "name": "首页",
+      "openType": "Internal"
+    },
+    {
+      "link": "/archives",
+      "name": "归档",
+      "openType": "Internal"
+    },
+    {
+      "link": "/tags",
+      "name": "标签",
+      "openType": "Internal"
+    },
+    {
+      "link": "/post/about",
+      "name": "关于",
+      "openType": "Internal"
+    }
+  ]
+}

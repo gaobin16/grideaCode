@@ -1,0 +1,33 @@
+{
+  "config": {
+    "branch": "master",
+    "cname": "",
+    "domain": "https://gaobin16.github.io",
+    "email": "",
+    "password": "",
+    "platform": "github",
+    "port": "22",
+    "privateKey": "",
+    "remotePath": "",
+    "repository": "gaobin16.github.io",
+    "server": "",
+    "token": "8f14838591d35b5721ffb5183781c10ffb8f4cc9",
+    "tokenUsername": "",
+    "username": "gaobin16"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
